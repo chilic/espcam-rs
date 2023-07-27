@@ -16,3 +16,5 @@ This Rust-based project aims to develop a secure home security camera that seaml
     - Telegram bot ID ([how to create telegram bot](https://core.telegram.org/bots#how-do-i-create-a-bot), [how to find group chat id](https://stackoverflow.com/questions/32423837/telegram-bot-how-to-get-a-group-chat-id))
 3) connect your esp32
 4) run `cargo r` to flash development version and `cargo r --release` for production ussage.
+
+![ESP32 Rust Security Camera](/assets/esp32-cam-box-rust.jpeg)
