@@ -4,7 +4,7 @@ This Rust-based project aims to develop a secure home security camera that seaml
 
 **Hardware**:
 
-1) ESP32-CAM W-BT
+1) ESP32-CAM W-BT (ESP32-S OV2640)
 2) HC-SR501 PIR Human Body Motion Sensors
 
 ## How To:
